@@ -1,0 +1,394 @@
+{
+  "school": "東海大学付属相模高等学校",
+  "location": "神奈川県相模原市南区",
+  "description": "東海大相模高校出身のプロ野球選手一覧",
+  "players": [
+    {
+      "name": "岡部憲章",
+      "name_reading": "おかべ のりあき",
+      "birth_date": "1958-04-11",
+      "position": "投手",
+      "draft_year": 1976,
+      "draft_pick": "ドラフト外",
+      "teams": ["日本ハムファイターズ", "阪神タイガース"],
+      "path": "高卒"
+    },
+    {
+      "name": "石井昭男",
+      "name_reading": "いしい あきお",
+      "birth_date": "1955-09-26",
+      "position": "外野手",
+      "draft_year": 1977,
+      "draft_pick": "3位",
+      "teams": ["中日ドラゴンズ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "原辰徳",
+      "name_reading": "はら たつのり",
+      "birth_date": "1958-07-22",
+      "position": "内野手",
+      "draft_year": 1980,
+      "draft_pick": "1位",
+      "teams": ["読売ジャイアンツ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "津末英明",
+      "name_reading": "つすえ ひであき",
+      "birth_date": "1958-03-09",
+      "position": "外野手",
+      "draft_year": 1980,
+      "draft_pick": "ドラフト外",
+      "teams": ["日本ハムファイターズ", "読売ジャイアンツ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "長谷川国利",
+      "name_reading": "はせがわ くにとし",
+      "birth_date": "1962-11-01",
+      "position": "投手",
+      "draft_year": 1984,
+      "draft_pick": "4位",
+      "teams": ["横浜大洋ホエールズ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "内田強",
+      "name_reading": "うちだ つよし",
+      "birth_date": "1961-07-23",
+      "position": "捕手",
+      "draft_year": 1985,
+      "draft_pick": "3位",
+      "teams": ["中日ドラゴンズ", "阪急ブレーブス", "福岡ダイエーホークス"],
+      "path": "東海大学→日立製作所"
+    },
+    {
+      "name": "渡辺伸治",
+      "name_reading": "わたなべ しんじ",
+      "birth_date": "1963-05-28",
+      "position": "投手",
+      "draft_year": 1985,
+      "draft_pick": "3位",
+      "teams": ["阪急ブレーブス", "オリックス・ブレーブス", "広島東洋カープ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "宮下正彦",
+      "name_reading": "みやした まさひこ",
+      "birth_date": "1962-06-15",
+      "position": "投手",
+      "draft_year": 1986,
+      "draft_pick": "ドラフト外",
+      "teams": ["横浜大洋ホエールズ"],
+      "path": "東海大学→日立製作所"
+    },
+    {
+      "name": "吉田道",
+      "name_reading": "よしだ とおる",
+      "birth_date": "1965-10-15",
+      "position": "投手",
+      "draft_year": 1987,
+      "draft_pick": "3位",
+      "teams": ["横浜大洋ホエールズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "杉山賢人",
+      "name_reading": "すぎやま けんと",
+      "birth_date": "1973-11-07",
+      "position": "投手",
+      "draft_year": 1991,
+      "draft_pick": "4位",
+      "teams": ["西武ライオンズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "原俊介",
+      "name_reading": "はら しゅんすけ",
+      "birth_date": "1977-12-15",
+      "position": "捕手",
+      "draft_year": 1995,
+      "draft_pick": "1位",
+      "teams": ["読売ジャイアンツ"],
+      "path": "高卒"
+    },
+    {
+      "name": "森野将彦",
+      "name_reading": "もりの まさひこ",
+      "birth_date": "1978-07-29",
+      "position": "内野手・外野手",
+      "draft_year": 1996,
+      "draft_pick": "2位",
+      "teams": ["中日ドラゴンズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "岩崎恭平",
+      "name_reading": "いわさき きょうへい",
+      "birth_date": "1978-07-28",
+      "position": "内野手",
+      "draft_year": 2000,
+      "draft_pick": "7位",
+      "teams": ["中日ドラゴンズ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "小林敦",
+      "name_reading": "こばやし あつし",
+      "birth_date": "1979-12-22",
+      "position": "投手",
+      "draft_year": 2001,
+      "draft_pick": "9位",
+      "teams": ["千葉ロッテマリーンズ"],
+      "path": "東海大学→日産自動車"
+    },
+    {
+      "name": "原拓也",
+      "name_reading": "はら たくや",
+      "birth_date": "1984-05-18",
+      "position": "内野手",
+      "draft_year": 2006,
+      "draft_pick": "大学生・社会人4位",
+      "teams": ["埼玉西武ライオンズ", "オリックス・バファローズ"],
+      "path": "東海大学→Honda"
+    },
+    {
+      "name": "市川友也",
+      "name_reading": "いちかわ ともや",
+      "birth_date": "1985-02-10",
+      "position": "捕手",
+      "draft_year": 2008,
+      "draft_pick": "4位",
+      "teams": ["読売ジャイアンツ", "北海道日本ハムファイターズ", "福岡ソフトバンクホークス"],
+      "path": "東海大学→Honda"
+    },
+    {
+      "name": "大田泰示",
+      "name_reading": "おおた たいし",
+      "birth_date": "1990-06-09",
+      "position": "外野手",
+      "draft_year": 2008,
+      "draft_pick": "1位",
+      "teams": ["読売ジャイアンツ", "北海道日本ハムファイターズ", "横浜DeNAベイスターズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "角晃多",
+      "name_reading": "すみ こうた",
+      "birth_date": "1990-04-18",
+      "position": "内野手",
+      "draft_year": 2008,
+      "draft_pick": "育成3位",
+      "teams": ["千葉ロッテマリーンズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "川端崇義",
+      "name_reading": "かわばた たかよし",
+      "birth_date": "1988-06-02",
+      "position": "外野手",
+      "draft_year": 2010,
+      "draft_pick": "4位",
+      "teams": ["オリックス・バファローズ"],
+      "path": "東海大学→JR東日本"
+    },
+    {
+      "name": "一二三慎太",
+      "name_reading": "ひふみ しんた",
+      "birth_date": "1992-09-27",
+      "position": "投手・外野手",
+      "draft_year": 2010,
+      "draft_pick": "2位",
+      "teams": ["阪神タイガース"],
+      "path": "高卒"
+    },
+    {
+      "name": "菅野智之",
+      "name_reading": "すがの ともゆき",
+      "birth_date": "1989-10-11",
+      "position": "投手",
+      "draft_year": 2012,
+      "draft_pick": "1位",
+      "teams": ["読売ジャイアンツ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "田中広輔",
+      "name_reading": "たなか こうすけ",
+      "birth_date": "1989-07-03",
+      "position": "内野手",
+      "draft_year": 2013,
+      "draft_pick": "3位",
+      "teams": ["広島東洋カープ"],
+      "path": "東海大学→JR東日本"
+    },
+    {
+      "name": "渡辺勝",
+      "name_reading": "わたなべ まさる",
+      "birth_date": "1993-01-21",
+      "position": "外野手",
+      "draft_year": 2014,
+      "draft_pick": "育成3位",
+      "teams": ["中日ドラゴンズ"],
+      "path": "東海大学→Honda鈴鹿"
+    },
+    {
+      "name": "友永翔太",
+      "name_reading": "ともなが しょうた",
+      "birth_date": "1992-11-08",
+      "position": "外野手",
+      "draft_year": 2014,
+      "draft_pick": "3位",
+      "teams": ["中日ドラゴンズ"],
+      "path": "東海大学→Honda鈴鹿"
+    },
+    {
+      "name": "小笠原慎之介",
+      "name_reading": "おがさわら しんのすけ",
+      "birth_date": "1997-10-08",
+      "position": "投手",
+      "draft_year": 2015,
+      "draft_pick": "1位",
+      "teams": ["中日ドラゴンズ", "ワシントン・ナショナルズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "吉田凌",
+      "name_reading": "よしだ りょう",
+      "birth_date": "1997-06-20",
+      "position": "投手",
+      "draft_year": 2015,
+      "draft_pick": "3位",
+      "teams": ["オリックス・バファローズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "大城卓三",
+      "name_reading": "おおしろ たくみ",
+      "birth_date": "1993-02-11",
+      "position": "捕手",
+      "draft_year": 2017,
+      "draft_pick": "3位",
+      "teams": ["読売ジャイアンツ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "田中俊太",
+      "name_reading": "たなか しゅんた",
+      "birth_date": "1993-12-04",
+      "position": "内野手",
+      "draft_year": 2017,
+      "draft_pick": "5位",
+      "teams": ["読売ジャイアンツ"],
+      "path": "日本大学"
+    },
+    {
+      "name": "菅野剛士",
+      "name_reading": "かんの つよし",
+      "birth_date": "1993-05-12",
+      "position": "外野手",
+      "draft_year": 2017,
+      "draft_pick": "4位",
+      "teams": ["千葉ロッテマリーンズ"],
+      "path": "法政大学→日立製作所"
+    },
+    {
+      "name": "遠藤成",
+      "name_reading": "えんどう じょう",
+      "birth_date": "2001-08-11",
+      "position": "内野手",
+      "draft_year": 2019,
+      "draft_pick": "4位",
+      "teams": ["阪神タイガース", "オリックス・バファローズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "西川僚祐",
+      "name_reading": "にしかわ りょうすけ",
+      "birth_date": "2002-04-04",
+      "position": "外野手",
+      "draft_year": 2020,
+      "draft_pick": "5位",
+      "teams": ["千葉ロッテマリーンズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "山村崇嘉",
+      "name_reading": "やまむら たかよし",
+      "birth_date": "2002-09-17",
+      "position": "内野手",
+      "draft_year": 2020,
+      "draft_pick": "3位",
+      "teams": ["埼玉西武ライオンズ"],
+      "path": "高卒"
+    },
+    {
+      "name": "森下翔太",
+      "name_reading": "もりした しょうた",
+      "birth_date": "2000-08-14",
+      "position": "外野手",
+      "draft_year": 2022,
+      "draft_pick": "1位",
+      "teams": ["阪神タイガース"],
+      "path": "中央大学"
+    },
+    {
+      "name": "百崎蒼生",
+      "name_reading": "ももさき あおい",
+      "birth_date": "2005-09-11",
+      "position": "内野手",
+      "draft_year": 2023,
+      "draft_pick": "4位",
+      "teams": ["阪神タイガース"],
+      "path": "高卒（東海大熊本星翔に転校）"
+    },
+    {
+      "name": "加藤響",
+      "name_reading": "かとう ひびき",
+      "birth_date": "2002-06-15",
+      "position": "内野手",
+      "draft_year": 2024,
+      "draft_pick": "3位",
+      "teams": ["横浜DeNAベイスターズ"],
+      "path": "東洋大学→徳島インディゴソックス"
+    },
+    {
+      "name": "冨重英二郎",
+      "name_reading": "とみしげ えいじろう",
+      "position": "投手",
+      "draft_year": 2024,
+      "draft_pick": "育成1位",
+      "teams": ["読売ジャイアンツ"],
+      "path": "国際武道大学→バイタルネット"
+    },
+    {
+      "name": "小島大河",
+      "name_reading": "こじま たいが",
+      "position": "内野手",
+      "draft_year": 2025,
+      "draft_pick": "1位",
+      "teams": ["埼玉西武ライオンズ"],
+      "path": "明治大学"
+    },
+    {
+      "name": "大塚瑠晏",
+      "name_reading": "おおつか るあん",
+      "position": "内野手",
+      "draft_year": 2025,
+      "draft_pick": "3位",
+      "teams": ["北海道日本ハムファイターズ"],
+      "path": "東海大学"
+    },
+    {
+      "name": "藤田琉生",
+      "name_reading": "ふじた りゅうせい",
+      "birth_date": "2006-11-17",
+      "position": "投手",
+      "draft_year": 2025,
+      "draft_pick": "2位",
+      "teams": ["北海道日本ハムファイターズ"],
+      "path": "高卒"
+    }
+  ]
+}
